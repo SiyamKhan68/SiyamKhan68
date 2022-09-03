@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiyamKhan68
+- 👋 Hi, I’m @Siaym Khan
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
