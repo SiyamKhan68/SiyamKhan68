@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siyam Khan
-- 👀 I’m interested in App development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...App development
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on ... Theres nothing to collaborate
 - 📫 How to reach me email me at siyamkhan68s@gmail.com
 
 <!---
