@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Siaym Khan
+- 👋 Hi, I’m @Siyam Khan
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...App development
 - 📫 How to reach me email me at siyamkhan68s@gmail.com
 
 <!---
